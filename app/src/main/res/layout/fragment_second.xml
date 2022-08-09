@@ -8,6 +8,7 @@
 
 
     <TextView
+        android:id="@+id/text_view_2"
         android:textStyle="bold"
         android:textColor="@color/white"
         android:gravity="center"
